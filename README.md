@@ -27,7 +27,7 @@ This project is part of the **Google Data Analytics Capstone** on Coursera. I an
 - Total Ride Length by Day of Week & User Type
 - Monthly Trends (Q1 & Q2, month 1 - 3)
   
-👉 View Tableau Dashboard: [(https://public.tableau.com/views/SharedBikesAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+View Tableau Dashboard: [(https://public.tableau.com/views/SharedBikesAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 ## Key Findings
 - Casual riders take longer rides, mostly on weekends.
