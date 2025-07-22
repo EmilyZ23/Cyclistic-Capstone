@@ -24,13 +24,14 @@ This project is part of the **Google Data Analytics Capstone** on Coursera. I an
 **View the full R script and analysis** here: 
 [firstProject.html – hosted on GitHub Pages](https://emilyz23.github.io/Cyclistic-Capstone/firstProject.html)
 
-## Key Visualizations (Tableau)
+## Visualizations (Tableau)
 - Average Ride Length by Day of Week & User Type
 - Total Ride Count by Day of Week & User Type
 - Total Ride Length by Day of Week & User Type
-- Monthly Trends (Q1 & Q2, month 1 - 3)
+- Monthly Trends (Q1 & Q2: January to March)
   
-View Tableau Dashboard: [(https://public.tableau.com/views/SharedBikesAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+View Tableau Dashboard: 
+[Shared Bikes Analysis – Tableau Public](https://public.tableau.com/views/SharedBikesAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key Findings
 - Casual riders take longer rides, mostly on weekends.
