@@ -21,6 +21,9 @@ This project is part of the **Google Data Analytics Capstone** on Coursera. I an
 - Created calculated fields (ride length, day of week)
 - Merged and filtered inconsistent entries
 
+**View the full R script and analysis** here: 
+[firstProject.html – hosted on GitHub Pages](https://emilyz23.github.io/Cyclistic-Capstone/firstProject.html)
+
 ## Key Visualizations (Tableau)
 - Average Ride Length by Day of Week & User Type
 - Total Ride Count by Day of Week & User Type
