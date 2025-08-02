@@ -29,6 +29,7 @@ This project is part of the **Google Data Analytics Capstone** on Coursera. I an
 - Total Ride Count by Day of Week & User Type
 - Total Ride Length by Day of Week & User Type
 - Monthly Trends (Q1 & Q2: January to March)
+- Top 10 Start & End station by Ride Count
   
 View Tableau Dashboard: 
 [Shared Bikes Analysis – Tableau Public](https://public.tableau.com/views/SharedBikesAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -37,6 +38,8 @@ View Tableau Dashboard:
 - Casual riders take longer rides, mostly on weekends.
 - Members ride shorter but more frequently during weekdays.
 - Thursday sees the highest ride duration among casual users.
+- Members use Stations 91, 77, and 192 most frequently.
+- Casual riders prefer Stations 43 and 195, with Station 195 ranking top 3 for casuals but only mid-level for members.
 
 ## Files Included
 - `firstProject.Rmd` – RMarkdown for analysis
